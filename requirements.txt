@@ -1,1 +1,6 @@
 scrapy
+requests_html
+requests_cache
+bleach
+dominate
+beautifulsoup4
